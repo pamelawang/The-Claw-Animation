@@ -4,12 +4,12 @@ CS111 Computer Programming and Problem Solving Final Project
 By Jasmine Davis and Pamela Wang
 
 8 December 2013
-
+*****************
 
 Classes created: Alien.java, AlienAnimation.java, AndysRoomBackground.java, Claw.java, EndBackground.java, MyShowcase.java, ToyStoryAnimation.java
 
 Made with Wellesley College Computer Science Department's animation classes by Rhys Price Jones, Franklyn Turbak and Brian Tjaden.
-
+******************
 
 To play the animation:
 
